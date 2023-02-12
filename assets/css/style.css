@@ -112,18 +112,16 @@ header nav a:nth-of-type(5):hover {
 }
 
 .about h3 {
-    width: 700px;
+    width: 500px;
     font-size: 6rem;
-    margin-left: 11rem;
-    word-wrap: normal;
-    
+    margin: 0 4rem 0 8rem;
 }
 
 .about article p {
     font-size: 20px;
     font-weight: 400;
-    margin: 30px 160px 0 0;
-    width: 700px;
+    margin: 30px 150px 0 0;
+    width: 660px;
 }
 
 .about article img {
